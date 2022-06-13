@@ -1,0 +1,16 @@
+{
+  "amount": 54.80,
+  "paymentType": "CREDIT_CARD",
+  "commandes": [
+    {
+      "prodcuctName": "gant",
+      "quantity": 4,
+      "price": 10
+    },
+    {
+      "prodcuctName": "laine",
+      "quantity": 1,
+      "price": 14.80
+    }
+  ]
+}

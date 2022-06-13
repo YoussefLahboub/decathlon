@@ -1,0 +1,40 @@
+[{
+  "id": 1,
+  "amount": 54.80,
+  "paymentType": "CREDIT_CARD",
+  "commandes": [
+    {
+      "id": 1,
+      "prodcuctName": "gant",
+      "quantity": 4,
+      "price": 10
+    },
+    {
+      "id": 2,
+      "prodcuctName": "laine",
+      "quantity": 1,
+      "price": 14.80
+    }
+  ]
+},
+  {
+    "id": 2,
+    "amount": 54.80,
+    "paymentType": "CREDIT_CARD",
+    "commandes": [
+      {
+        "id": 1,
+        "prodcuctName": "gant",
+        "quantity": 4,
+        "price": 10
+      },
+      {
+        "id": 2,
+        "prodcuctName": "laine",
+        "quantity": 1,
+        "price": 14.80
+      }
+    ]
+  }
+]
+
